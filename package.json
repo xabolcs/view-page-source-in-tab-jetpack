@@ -2,8 +2,8 @@
   "name": "view-page-source-in-tab",
   "fullName": "View Page Source in Tab",
   "author": "Erik Vold <erikvvold@gmail.com>",
-  "description": "View the html source in another tab",
+  "description": "Adds a 'View Page Source in Tab' context menu item to a page's context menu.",
   "id": "view_source_in_tab@erikvold.com",
-  "version": "0.1a",
+  "version": "0.1",
   "dependencies": ["jetpack-core"]
 }
