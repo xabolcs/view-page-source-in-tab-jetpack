@@ -4,6 +4,6 @@
   "author": "Erik Vold <erikvvold@gmail.com>",
   "description": "Adds a 'View Page Source in Tab' context menu item to a page's context menu.",
   "id": "view_source_in_tab@erikvold.com",
-  "version": "0.1",
-  "dependencies": ["jetpack-core"]
+  "version": "0.2",
+  "dependencies": ["addon-kit"]
 }
